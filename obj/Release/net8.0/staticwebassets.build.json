@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "5apJpkhI/tOwYZ4QB+T1EAaSRM8EFibY8hxyV/Eq1ts=",
+  "Source": "ngaoda",
+  "BasePath": "_content/ngaoda",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "ngaoda\\wwwroot",
+      "Source": "ngaoda",
+      "ContentRoot": "D:\\workplace\\Projects\\NSG_Projects\\ngaoda\\wwwroot\\",
+      "BasePath": "_content/ngaoda",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}

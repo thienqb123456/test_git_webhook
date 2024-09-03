@@ -1,0 +1,14 @@
+D:\workplace\Projects\PersonalProjects\ngaoda\obj\Release\net8.0\PubTmp\Out\ngaoda.exe
+D:\workplace\Projects\PersonalProjects\ngaoda\obj\Release\net8.0\PubTmp\Out\appsettings.Development.json
+D:\workplace\Projects\PersonalProjects\ngaoda\obj\Release\net8.0\PubTmp\Out\appsettings.json
+D:\workplace\Projects\PersonalProjects\ngaoda\obj\Release\net8.0\PubTmp\Out\ngaoda.dll
+D:\workplace\Projects\PersonalProjects\ngaoda\obj\Release\net8.0\PubTmp\Out\ngaoda.deps.json
+D:\workplace\Projects\PersonalProjects\ngaoda\obj\Release\net8.0\PubTmp\Out\ngaoda.runtimeconfig.json
+D:\workplace\Projects\PersonalProjects\ngaoda\obj\Release\net8.0\PubTmp\Out\ngaoda.pdb
+D:\workplace\Projects\PersonalProjects\ngaoda\obj\Release\net8.0\PubTmp\Out\Microsoft.OpenApi.dll
+D:\workplace\Projects\PersonalProjects\ngaoda\obj\Release\net8.0\PubTmp\Out\NLog.dll
+D:\workplace\Projects\PersonalProjects\ngaoda\obj\Release\net8.0\PubTmp\Out\NLog.Extensions.Logging.dll
+D:\workplace\Projects\PersonalProjects\ngaoda\obj\Release\net8.0\PubTmp\Out\SixLabors.ImageSharp.dll
+D:\workplace\Projects\PersonalProjects\ngaoda\obj\Release\net8.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+D:\workplace\Projects\PersonalProjects\ngaoda\obj\Release\net8.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\workplace\Projects\PersonalProjects\ngaoda\obj\Release\net8.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll

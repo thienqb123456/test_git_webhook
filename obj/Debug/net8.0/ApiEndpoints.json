@@ -1,0 +1,43 @@
+[
+  {
+    "ContainingType": "ngaoda.Controllers.ImageProcessingController",
+    "Method": "ProcessImage",
+    "RelativePath": "ImageProcessing",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "path",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "w",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "h",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "q",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "dpr",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "fit",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

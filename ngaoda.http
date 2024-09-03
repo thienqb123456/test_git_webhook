@@ -1,0 +1,6 @@
+@ngaoda_HostAddress = http://localhost:5086
+
+GET {{ngaoda_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
